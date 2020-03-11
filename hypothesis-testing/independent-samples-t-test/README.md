@@ -15,7 +15,7 @@ Question: is there any significant difference between the average ash content of
 H0 : μ0 ＝ μ1
 H1 : μ0 ≠ μ1
 
-![image](https://github.com/fuguixing/statistics/master/hypothesis-testing/independent-samples-t-test/independent-sample-t-test.png)
+![image](https://raw.githubusercontent.com/fuguixing/statistics/master/hypothesis-testing/independent-samples-t-test/independent-sample-t-test.png)
 
 Sig. 0.396 indicates that the result of Equal Variances Assumed is valid
 The results of t-test should be based on Equal Variances Assumed
