@@ -10,7 +10,7 @@ A company studied the relationship between vitamin E deficiency in diet and vita
 
 Eight pairs were randomly assigned to the normal feed group (group A) and vitamin E deficiency group (group B).
 
-After a certain period of time, the content of vitamin A in liver was measured. Data is as shown in paired-samples.txt,
+After a certain period of time, the content of vitamin A in liver was measured. Data is as shown in data-paired-samples.txt,
 
 Question: Does Vitamin E deficiency has a significant effect on vitamin A? (α= 0.05)
 
