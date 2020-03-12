@@ -4,6 +4,10 @@
 
 IBM SPSS 2.5
 
+## Reference
+
+[Hypothesis Test and SPSS Practice](https://www.docin.com/p-2123053291.html)
+
 ## Use case
 
 A company studied the relationship between vitamin E deficiency in diet and vitamin a content in liver. They paired rats of the same genus with rats of the same sex, age and weight.
@@ -19,7 +23,7 @@ Question: Does Vitamin E deficiency has a significant effect on vitamin A? (α= 
 H0 : μ0 ＝ μ1
 H1 : μ0 ≠ μ1
 
-![image](https://raw.githubusercontent.com/fuguixing/statistics/master/hypothesis-testing/paired-samples-t-test/paired-sample-t-test.png)
+![image](https://raw.githubusercontent.com/fuguixing/statistics/master/hypothesis-testing/t-test/paired-samples-t-test/spss/paired-sample-t-test.png)
 
 Figure 1 shows that the average value of group A is 3318.75, and the average value of group B is 2506.25
 Figure 2 shows that The correlation coefficient of group A and group B is 0.584, and the test probability is 0.129
